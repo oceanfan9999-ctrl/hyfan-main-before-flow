@@ -1,6 +1,6 @@
 ---
 name: hyfan-main-before-flow
-description: 从海洋 ERP 的混合调试分支 haiyangtest 审核提取正式修改到 hyfan-main-before，以单批次经 dev 测试后发布 main；包含提交信息确认、增量记录和发布版本校验。用于替代旧 promote-clean-branch 精选流程，不用于 hyfan/feat-* 干净功能开发。
+description: 从hy ERP 的混合调试分支 haiyangtest 审核提取正式修改到 hyfan-main-before，以单批次经 dev 测试后发布 main；包含提交信息确认、增量记录和发布版本校验。用于替代旧 promote-clean-branch 精选流程，不用于 hyfan/feat-* 干净功能开发。
 ---
 
 # Hyfan 发布候选分支流程
