@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hyfan 正式代码精选发布"
+  short_description: "从混合调试分支精选正式修改，经候选分支和 dev 测试后安全发布 main"
+  default_prompt: "使用 $hyfan-main-before-flow 执行我指定的发布阶段，先展示正式差异和提交信息确认；未经确认的内容绝不推送 main 或 dev。"
